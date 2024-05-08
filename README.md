@@ -12,7 +12,7 @@ Technical Requirements:
 Dataset:
 - 20 patients with 4-10 observations each
 - 3 classes (Healthy, Symptomatic, Critical)
-- Each biomarker is modeled to mimic T cell behavior (not necessarly accurate, numerically)
+- Each biomarker is modeled to mimic T cell behavior (not necessarly accurate, numerically-wise)
   
     Biomarker_1 ~ Terminal Effector T cells
   
