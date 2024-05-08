@@ -1,5 +1,9 @@
 # ct_hmm
 
+Notebook Descriptions:
+- CT-HMM.ipynb runs the model using individual biomarkers.
+- ND_CT_HMM.ipynb runs the model using all biomarkers at once as well as pars of biomarkers.
+  
 Technical Requirements:
 - numpy, pandas, collections, sklearn, and matplotlib must be downloaded
 - any version of Python is acceptable as long as it can handle the above libraires
