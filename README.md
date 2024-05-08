@@ -11,13 +11,20 @@ Dataset:
 - Each biomarker is modeled to mimic T cell behavior (not necessarly accurate, numerically)
   
     Biomarker_1 ~ Terminal Effector T cells
+  
     Biomarker_2 ~ Effector memory T cells
+  
     Biomarker_3 ~ cell damage after infection
+  
 - The dataset is modeled in a way that follows these rules:
   
-    General rules: 
-      It is rare to reach critical status. 
-      It is highly probable that one recovers. 
-      Once critical, you stay critical. 
+    General rules:
+  
+      It is rare to reach critical status.
+  
+      It is highly probable that one recovers.
+  
+      Once critical, you stay critical.
+  
       It is highly probable that you will start as healthy
 
