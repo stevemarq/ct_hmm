@@ -1,5 +1,9 @@
 # ct_hmm
 
+This is for the Professor:
+- I wrote in the paper that considering multiple biomarkers does produce poor results. However, it was the same bug as last time. Now it works.
+
+  
 Notebook Descriptions:
 - CT-HMM.ipynb runs the model using individual biomarkers.
 - ND_CT_HMM.ipynb runs the model using all biomarkers at once as well as pars of biomarkers.
