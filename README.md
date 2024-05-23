@@ -36,3 +36,6 @@ Dataset:
 NOTE: If you are umable to run using the Jupyter Notebook, you can download the .py files and run them on the terminal using python main.py
 If you are running it this way, ensure that all the files, including the dataset, are in the same location.
 This method is the same way as running the CT-HMM.ipynb
+
+NOTE: The class CT-HMM in both the notebook and .py file was written using the following paper as a guide:
+Liu, Y. Y., Li, S., Li, F., Song, L., & Rehg, J. M. (2015). Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression. Advances in neural information processing systems, 28, 3599–3607.
