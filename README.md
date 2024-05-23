@@ -33,3 +33,6 @@ Dataset:
   
       It is highly probable that you will start as healthy
 
+NOTE: If you are umable to run using the Jupyter Notebook, you can download the .py files and run them on the terminal using python main.py
+If you are running it this way, ensure that all the files, including the dataset, are in the same location.
+This method is the same way as running the CT-HMM.ipynb
